@@ -16,9 +16,9 @@ while running:
     
 
     elif user_number > number:
-     print("C'est moins l'amis !")
+     print("C'est moins l'ami !")
     elif user_number < number:
-     print("C'est plus mon amis")
+     print("C'est plus mon ami")
     
 
 
